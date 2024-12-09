@@ -1,2 +1,0 @@
-# demo-docker
-docker files
